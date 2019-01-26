@@ -1,0 +1,13 @@
+Serial implementation:
+Primes found: 12251
+Serial Execution time: 0.056161
+
+Parallel implementation: 4 threads
+Primes found: 17101
+Parallel Execution time: 0.032542
+~43% reduction
+
+Parallel implementation: 16 threads
+Primes found: 15623
+Parallel Execution time: 0.016289
+~71% reduction
